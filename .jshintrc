@@ -11,8 +11,9 @@
     "afterEach"  : false,
     "equal"      : false
   },
+  "jquery": true,
   "globalstrict": true,
-  "quotmark": false,
+  "quotmark": true,
   "smarttabs": true,
   "trailing": true,
   "undef": true,

@@ -1,0 +1,27 @@
+{
+  "name": "logger",
+  "version": "0.0.1",
+  "description": "This is a quick and dirty example of a currying logger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ivanoats/simple_logger.git"
+  },
+  "keywords": [
+    "currying",
+    "logging"
+  ],
+  "author": "Ivan Storck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ivanoats/simple_logger/issues"
+  },
+  "homepage": "https://github.com/ivanoats/simple_logger",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.10.0"
+  }
+}
